@@ -1,5 +1,5 @@
 ![image](https://github.com/leeenzang/leeenzang/assets/127672852/694943cb-fbec-4cba-9041-1d9bd55250d9)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leeenzang=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![leeenzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeenzang)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leeenzang)](https://git.io/streak-stats)
 
 
