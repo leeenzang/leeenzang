@@ -3,7 +3,7 @@
 
 
 [![leeenzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeenzang&card_width=400&background=45,f2f2f2,d22)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leeenzang&card_width=400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leeenzang&card_width=400&background=45,f2f2f2,d22)](https://git.io/streak-stats)
 
 
 <!--
