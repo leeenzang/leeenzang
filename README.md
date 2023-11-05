@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=0D3B66&height=300&section=header&text=enzn%20eunjin&fontSize=90)
-
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=eunjin%20👩🏻‍💻&fontAlign=80&fontAlignY=40&color=gradient)
 
 <!--
 **leeenzang/leeenzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
