@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=John%20Doe&fontSize=90&fontAlign=70&fontAlignY=40&color=0:FFD28D,100:F199CA&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi%20👋&fontSize=90&fontAlign=70&fontAlignY=40&color=0:FFD28D,100:F199CA&fontColor=ffffff)
 
 
 
