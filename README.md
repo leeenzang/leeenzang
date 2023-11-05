@@ -2,8 +2,8 @@
 <br>
 
 
-[![leeenzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeenzang)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leeenzang)](https://git.io/streak-stats)
+[![leeenzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeenzang&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=leeenzang&card_width=400)](https://git.io/streak-stats)
 
 
 <!--
