@@ -1,5 +1,9 @@
 ### Hi there 👋
-https://capsule-render.vercel.app/api?
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=0D3B66&height=300&section=header&text=enzn%20eunjin&fontSize=90)
+
+
+
 <!--
 **leeenzang/leeenzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
