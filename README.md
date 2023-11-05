@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=John%20Doe&fontAlign=80&fontAlignY=40&color=gradient&startColor=e2af76&endColor=c980a9)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:e2af76,100:c980a9&height=200&section=header&text=John%20Doe&fontSize=90)
 
 <!--
 **leeenzang/leeenzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
