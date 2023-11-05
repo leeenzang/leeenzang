@@ -1,4 +1,5 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=eunjin%20👩🏻‍💻&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=eunjin%20![image](https://github.com/leeenzang/leeenzang/assets/127672852/824aff0d-45fe-4c86-8c9c-5e453073cb4d)
+&fontAlign=80&fontAlignY=40&color=gradient)
 
 <!--
 **leeenzang/leeenzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
