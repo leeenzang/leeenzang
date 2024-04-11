@@ -1,8 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hello)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=Hell☻&animation=twinkling&fontColor=fefdab)
 
 </div>
+<br/>
 
 
 
@@ -25,7 +26,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 </div>
-
+<br/>
+<br/>
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 <h3 align="center">📈 GiHub Stats</h3>
