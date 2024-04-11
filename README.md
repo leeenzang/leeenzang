@@ -29,7 +29,6 @@
 <br/>
 <br/>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 <h3 align="center">📈 GiHub Stats</h3>
